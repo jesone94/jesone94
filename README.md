@@ -6,23 +6,28 @@
 
 ### 🛠 Умею
 - 📜 HTML5
-- 🎨 CSS / Bootstrap / Ant Design styled-components etc.
-- 🔧 JavaScript (ES6)
+- 🎨 CSS / SCSS / Bootstrap / Ant Design / styled-components etc.
+- 🔧 JavaScript (ES6+)
+- 🌱 TypeScript
 - 🧩 React
-- 🕸 Redux / Redux-thunk / Redux Saga
-- 🗄 MongoDB / Mongoose
+- 🧩 i18next
+- 🕸 Redux / Redux-thunk / Redux Saga / Redux-Toolkit
+- 🗄 MongoDB / Mongoose / Firebase
 - ⚙ Node.JS / ExpressJS
 - 🔌 REST API
+
 ### 🛠 Хочу уметь
-- 🌱 TypeScript
+
 - 🌱 SSR
 - 🌱 Effector.Js
 - 🌱 React Native
+- 🌱 GraphQL
  
 
 ### 📫 Свяжись со мной
 
 - Telegram @dimka_penkin
 - +7 (937) 36-77-939
+- jesone94@gmail.com
 
 
